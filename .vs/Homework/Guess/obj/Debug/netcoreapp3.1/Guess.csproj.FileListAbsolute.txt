@@ -1,0 +1,11 @@
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.exe
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.deps.json
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.json
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.dev.json
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.dll
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.pdb
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.csprojAssemblyReference.cache
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfoInputs.cache
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfo.cs
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.dll
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.pdb

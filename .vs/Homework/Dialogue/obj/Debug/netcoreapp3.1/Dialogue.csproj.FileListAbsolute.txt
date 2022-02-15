@@ -1,0 +1,11 @@
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.exe
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.deps.json
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.runtimeconfig.json
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.runtimeconfig.dev.json
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.dll
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.pdb
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.csprojAssemblyReference.cache
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.AssemblyInfoInputs.cache
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.AssemblyInfo.cs
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.dll
+C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.pdb

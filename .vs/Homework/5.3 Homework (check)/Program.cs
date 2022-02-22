@@ -27,22 +27,23 @@ namespace _5._3_Homework__check_
 
         class Check
         {
-            public void Count ()
-            {
+        //    public void Count ()
+        //    {
 
-            }
+        //    }
 
-            public int countWithoutTax
-            {
-                get
-                {
-                    return count * 0.8;
-                }
-            }
-        }
-        static void Main(string[] args)
-        {
+        //    public int countWithoutTax
+        //    {
+                
+        //        get
+        //        {
+        //            return count * 0.8;
+        //        }
+        //    }
+        //}
+        //static void Main(string[] args)
+        //{
             
-        }
+        //}
     }
 }

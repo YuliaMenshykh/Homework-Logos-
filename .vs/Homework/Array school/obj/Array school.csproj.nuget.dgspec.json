@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Guess\\Guess.csproj": {}
+    "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Array school\\Array school.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Guess\\Guess.csproj": {
+    "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Array school\\Array school.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Guess\\Guess.csproj",
-        "projectName": "Guess",
-        "projectPath": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Guess\\Guess.csproj",
+        "projectUniqueName": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Array school\\Array school.csproj",
+        "projectName": "Array school",
+        "projectPath": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Array school\\Array school.csproj",
         "packagesPath": "C:\\Users\\Pavlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Guess\\obj\\",
+        "outputPath": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Array school\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pavlo\\AppData\\Roaming\\NuGet\\NuGet.Config",

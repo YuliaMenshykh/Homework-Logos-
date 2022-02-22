@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3D3A883D-9357-4704-95A2-7E4B4C9F03FD}</ProjectGuid>
+    <ProjectGuid>{1E78B653-F168-4675-BF35-F5B406979414}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_5._2_Homework_OOP</RootNamespace>
-    <AssemblyName>5.2 Homework OOP</AssemblyName>
+    <RootNamespace>_5._3_Homework__check_</RootNamespace>
+    <AssemblyName>5.3 Homework %28check%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

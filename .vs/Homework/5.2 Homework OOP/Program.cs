@@ -70,7 +70,7 @@ namespace _5._2_Homework_OOP
         static void Main(string[] args)
         {
             Name FirstShopper = GetShopper();
-            Console.WriteLine("\n = Shopper =");
+            Console.WriteLine(" = Shopper =");
             FirstShopper.printShopper();
             Name Cashier = GetCashier();
             Console.WriteLine("\n = Cashier =");

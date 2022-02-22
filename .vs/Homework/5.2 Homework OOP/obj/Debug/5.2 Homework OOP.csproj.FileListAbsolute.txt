@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.2 Homework OOP\bin\Debug\5.2 Homework OOP.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.2 Homework OOP\bin\Debug\5.2 Homework OOP.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.2 Homework OOP\bin\Debug\5.2 Homework OOP.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.2 Homework OOP\obj\Debug\5.2 Homework OOP.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.2 Homework OOP\obj\Debug\5.2 Homework OOP.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.2 Homework OOP\obj\Debug\5.2 Homework OOP.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.2 Homework OOP\obj\Debug\5.2 Homework OOP.pdb

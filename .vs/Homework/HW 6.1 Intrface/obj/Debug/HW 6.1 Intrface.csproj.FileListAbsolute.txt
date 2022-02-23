@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.1 Intrface\bin\Debug\HW 6.1 Intrface.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.1 Intrface\bin\Debug\HW 6.1 Intrface.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.1 Intrface\bin\Debug\HW 6.1 Intrface.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.1 Intrface\obj\Debug\HW 6.1 Intrface.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.1 Intrface\obj\Debug\HW 6.1 Intrface.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.1 Intrface\obj\Debug\HW 6.1 Intrface.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.1 Intrface\obj\Debug\HW 6.1 Intrface.pdb

@@ -1,0 +1,2 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.3 generic\obj\Debug\HW 8.3 generic.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.3 generic\obj\Debug\HW 8.3 generic.csproj.CoreCompileInputs.cache

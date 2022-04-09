@@ -1,0 +1,18 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\12.3 HW mini BD.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\12.3 HW mini BD.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\12.3 HW mini BD.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\12.3 HW mini BD.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\12.3 HW mini BD.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\ref\12.3 HW mini BD.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\12.3 HW mini BD.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.csproj.CopyComplete
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\ref\12.3 HW mini BD.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.2 HW add data in class\obj\Debug\net5.0\12.3 HW mini BD.genruntimeconfig.cache

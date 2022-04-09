@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.3 HW delegat+ref\bin\Debug\10.3 HW delegat+ref.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.3 HW delegat+ref\bin\Debug\10.3 HW delegat+ref.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.3 HW delegat+ref\bin\Debug\10.3 HW delegat+ref.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.3 HW delegat+ref\obj\Debug\10.3 HW delegat+ref.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.3 HW delegat+ref\obj\Debug\10.3 HW delegat+ref.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.3 HW delegat+ref\obj\Debug\10.3 HW delegat+ref.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.3 HW delegat+ref\obj\Debug\10.3 HW delegat+ref.pdb

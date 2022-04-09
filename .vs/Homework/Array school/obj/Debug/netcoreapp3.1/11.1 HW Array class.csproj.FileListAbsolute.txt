@@ -1,0 +1,14 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\11.1 HW Array class.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\11.1 HW Array class.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\11.1 HW Array class.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\11.1 HW Array class.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\11.1 HW Array class.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\11.1 HW Array class.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\11.1 HW Array class.genruntimeconfig.cache

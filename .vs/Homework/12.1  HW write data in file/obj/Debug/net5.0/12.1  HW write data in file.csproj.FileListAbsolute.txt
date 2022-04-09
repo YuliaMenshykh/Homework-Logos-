@@ -1,0 +1,18 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\12.1  HW write data in file.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\12.1  HW write data in file.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\12.1  HW write data in file.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\12.1  HW write data in file.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\12.1  HW write data in file.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\ref\12.1  HW write data in file.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\12.1  HW write data in file.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.csproj.CopyComplete
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\ref\12.1  HW write data in file.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.1  HW write data in file\obj\Debug\net5.0\12.1  HW write data in file.genruntimeconfig.cache

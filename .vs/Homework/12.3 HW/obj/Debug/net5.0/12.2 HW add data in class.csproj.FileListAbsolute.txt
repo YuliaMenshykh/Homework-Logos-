@@ -1,0 +1,18 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.2 HW add data in class.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.2 HW add data in class.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.2 HW add data in class.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.2 HW add data in class.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.2 HW add data in class.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\ref\12.2 HW add data in class.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.2 HW add data in class.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.csproj.CopyComplete
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\ref\12.2 HW add data in class.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.2 HW add data in class.genruntimeconfig.cache

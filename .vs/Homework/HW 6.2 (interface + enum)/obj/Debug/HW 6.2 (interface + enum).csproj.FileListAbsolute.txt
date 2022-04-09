@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.2 (interface + enum)\bin\Debug\HW 6.2 (interface + enum).exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.2 (interface + enum)\bin\Debug\HW 6.2 (interface + enum).exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.2 (interface + enum)\bin\Debug\HW 6.2 (interface + enum).pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.2 (interface + enum)\obj\Debug\HW 6.2 (interface + enum).csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.2 (interface + enum)\obj\Debug\HW 6.2 (interface + enum).csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.2 (interface + enum)\obj\Debug\HW 6.2 (interface + enum).exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 6.2 (interface + enum)\obj\Debug\HW 6.2 (interface + enum).pdb

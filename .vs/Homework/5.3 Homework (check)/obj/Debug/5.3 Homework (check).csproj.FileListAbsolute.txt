@@ -1,0 +1,2 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.3 Homework (check)\obj\Debug\5.3 Homework (check).csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\5.3 Homework (check)\obj\Debug\5.3 Homework (check).csproj.CoreCompileInputs.cache

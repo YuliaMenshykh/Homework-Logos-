@@ -1,0 +1,14 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\Array school.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\Array school.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\Array school.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\Array school.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\Array school.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\bin\Debug\netcoreapp3.1\Array school.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Array school\obj\Debug\netcoreapp3.1\Array school.genruntimeconfig.cache

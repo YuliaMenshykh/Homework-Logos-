@@ -6,6 +6,15 @@ using System.Threading.Tasks;
 
 namespace HW_6._2__interface___enum_
 {
+    public enum whatToEat
+    {
+        meat,
+        fish,
+        fruits,
+        milk
+    }
+
+
     interface ISleep
     {
         void AnimalSleep();
@@ -25,9 +34,42 @@ namespace HW_6._2__interface___enum_
     }
 
 
+     class IHealthPeasfull
+    {
+        void AnimalHealth( whatToEat whatToEat)
+        {
+            double health = 0;
+            switch (whatToEat)
+            {
+                case whatToEat.meat:
+                    health =- 0.25;
+                    break;
+                case whatToEat.fish:
+                    health =-0.25;
+                    break;
+                case whatToEat.fruits:
+                    health =+0.25;
+                    break;
+                case whatToEat.milk:
+                    health =+0.25;
+                    break;
+                default:
+                    Console.WriteLine("Problem"); 
+                    break;
+
+               
+            }
+             
+            
+        }
+    }
 
 
-    class Cat : ISleep, IEat, IDrink, ITalk
+
+
+
+     class Cat : IHealthPeasfull, ISleep, IEat, IDrink, ITalk
+
     {
 
         public void AnimalSleep()
@@ -36,7 +78,7 @@ namespace HW_6._2__interface___enum_
         }
         public void AnimalEat()
         {
-            Console.WriteLine("Meow, i`m eating");
+           
         }
         public void AnimalDrink()
         {
@@ -46,6 +88,7 @@ namespace HW_6._2__interface___enum_
         {
             Console.WriteLine("Meow Meow");
         }
+        
 
     }
 
@@ -84,7 +127,7 @@ namespace HW_6._2__interface___enum_
 
           Dog dog = new Dog();
           (dog as IDrink).AnimalDrink();
-            dog.AnimalDrink();
+           
 
 
         }

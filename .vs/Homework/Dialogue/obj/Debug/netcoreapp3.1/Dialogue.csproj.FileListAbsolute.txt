@@ -9,3 +9,17 @@ C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialog
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.AssemblyInfo.cs
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.dll
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\bin\Debug\netcoreapp3.1\Dialogue.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Dialogue\obj\Debug\netcoreapp3.1\Dialogue.genruntimeconfig.cache

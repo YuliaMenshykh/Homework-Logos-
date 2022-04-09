@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.1 virtual metod\bin\Debug\HW 8.1 virtual metod.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.1 virtual metod\bin\Debug\HW 8.1 virtual metod.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.1 virtual metod\bin\Debug\HW 8.1 virtual metod.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.1 virtual metod\obj\Debug\HW 8.1 virtual method.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.1 virtual metod\obj\Debug\HW 8.1 virtual method.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.1 virtual metod\obj\Debug\HW 8.1 virtual metod.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 8.1 virtual metod\obj\Debug\HW 8.1 virtual metod.pdb

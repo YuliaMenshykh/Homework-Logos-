@@ -9,3 +9,17 @@ C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homewo
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.dll
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache

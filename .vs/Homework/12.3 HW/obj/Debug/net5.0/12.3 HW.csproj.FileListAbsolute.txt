@@ -1,0 +1,16 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.3 HW.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.3 HW.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.3 HW.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.3 HW.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.3 HW.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\ref\12.3 HW.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\bin\Debug\net5.0\12.3 HW.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\ref\12.3 HW.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\12.3 HW\obj\Debug\net5.0\12.3 HW.genruntimeconfig.cache

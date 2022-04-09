@@ -9,3 +9,17 @@ C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.Ass
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfo.cs
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.dll
 C:\Users\Pavlo\Desktop\Fork\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\bin\Debug\netcoreapp3.1\Guess.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\Guess\obj\Debug\netcoreapp3.1\Guess.genruntimeconfig.cache

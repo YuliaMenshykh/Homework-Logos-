@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\9.1 HW constructor\bin\Debug\9.1 HW constructor.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\9.1 HW constructor\bin\Debug\9.1 HW constructor.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\9.1 HW constructor\bin\Debug\9.1 HW constructor.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\9.1 HW constructor\obj\Debug\9.1 HW constructor.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\9.1 HW constructor\obj\Debug\9.1 HW constructor.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\9.1 HW constructor\obj\Debug\9.1 HW constructor.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\9.1 HW constructor\obj\Debug\9.1 HW constructor.pdb

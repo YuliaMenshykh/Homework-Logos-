@@ -7,29 +7,77 @@ using System.Threading.Tasks;
 namespace Homework_OOP
 {
 
-    class Cat
+    abstract class Weapon
     {
-        public void Speek()
+        public abstract int Damage { get; }
+        public abstract void Fire();
+        public void ShowInfo()
         {
-            Console.WriteLine("- Meow -_-");
+            Console.WriteLine($"{GetType().Name} Damage : {Damage}");
+        }
+
+    }
+
+    class Gun : Weapon
+    {
+        public override int Damage => 5;
+
+        public override void Fire()
+        {
+            Console.WriteLine("Паф");
         }
     }
-    class Human
+
+    class LazerGun : Weapon
     {
-        public void PettingCat()
+        public override int Damage { get { return 4; } }
+
+        public override void Fire()
         {
-            Console.WriteLine("- Dogs are better than cats !");
+            Console.WriteLine("Піу -Піу");
         }
     }
+
+    class Bow : Weapon
+    {
+        public override int Damage => 6;
+
+        public override void Fire()
+        {
+            Console.WriteLine("Чпуньк");
+        }
+    }
+
+    class Player
+    {
+        public void Fire(Weapon weapon)
+        {
+            weapon.Fire();
+        }
+
+        public void CheckInfo(Weapon weapon)
+        {
+            weapon.ShowInfo();
+        }
+
+    }
+
 
     class Program
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat();
-            Human human = new Human();
-            human.PettingCat();
-            cat.Speek();
+            Player player = new Player();
+            //Gun gun = new Gun();
+            //player.Fire(gun);
+            Weapon[] AllWeapons = { new Gun(), new LazerGun(), new Bow() };
+            foreach (var item in AllWeapons)
+            {
+
+                player.CheckInfo(item);
+                player.Fire(item);
+                Console.WriteLine();
+            }
 
         }
     }

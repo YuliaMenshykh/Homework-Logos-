@@ -127,6 +127,7 @@ namespace HW_6._2__interface___enum_
 
           Dog dog = new Dog();
           (dog as IDrink).AnimalDrink();
+            dog.AnimalDrink();
            
 
 

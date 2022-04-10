@@ -12,12 +12,14 @@ namespace Dialogue
                 Console.WriteLine("We talk about Present simple tense \n In your opinion, when we use Present simple?");
                 Console.WriteLine("1 When somesing regular or it is your habbits/allways happen/ permanent\t  2 When we talk about actions taking place right now\t  3 When we talk about actions who started and end in the past \t ");
                 string vybir1 = Console.ReadLine();
+                int res = 0;
 
                 switch (vybir1)
                 {
                     case "1":
                         Console.WriteLine("yes, it is right");
-                        break;
+                    res += 1;
+                    break;
                     case "2":
                         Console.WriteLine(" no, it is Present continuous");
                         break;
@@ -35,6 +37,7 @@ namespace Dialogue
                         break;
                     case "2":
                         Console.WriteLine("yes, it is right");
+                    res += 1;
                         break;
                     case "3":
                         Console.WriteLine("no, it about past");
@@ -47,14 +50,22 @@ namespace Dialogue
                 {
                     case "1":
                         Console.WriteLine("yes, it is right");
-                        break;
+                    res += 1;
+                    break;
                     case "2":
-                        Console.WriteLine("Thet`s not right");
+                        Console.WriteLine("That`s not right");
                         break;
                     case "3":
-                        Console.WriteLine("Thet`s not right");
+                        Console.WriteLine("That`s not right");
                         break;
                 }
+
+                
+            if (res == 3)
+                {
+                Console.WriteLine("\nCongratulations you win!");
+                }
+            else Console.WriteLine("You lost");
             
 
         }

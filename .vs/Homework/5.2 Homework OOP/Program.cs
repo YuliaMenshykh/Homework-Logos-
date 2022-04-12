@@ -48,27 +48,6 @@ namespace _5._2_Homework_OOP
 
     class Program
     {
-        
-
-        //static Name GetShopper()
-        //{
-        //    Name name = new Name();
-        //    name.firstName = "Bob";
-        //    name.lastName = "Marley";
-        //    return name;
-        //}
-
-        //static Name GetMenadger()
-        //{
-        //    Name name = new Name();
-        //    name.firstName = "Dan";
-        //    name.lastName = "Taller";
-        //    name.position ="menager";
-        //    name.function = "Hiring, training, supervising, and evaluating employees.\n Handling customer complaints.";
-        //    return name;
-        //}
-
-        
         static void Main(string[] args)
         {
             Console.WriteLine("\nManager :\n");

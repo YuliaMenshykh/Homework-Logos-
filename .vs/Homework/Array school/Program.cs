@@ -21,7 +21,6 @@ namespace Array_school
             
         }
 
-
     }
 
     class StudentClass

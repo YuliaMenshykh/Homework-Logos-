@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10._1_HW_method__rand
+namespace _10._2_HW_method__rand
 {
     class Product
     {

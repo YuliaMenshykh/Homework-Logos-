@@ -28,39 +28,6 @@ namespace HW_6._2__interface___enum_
 
     }
 
-    //public class Eat
-    //{
-    //    public enum food
-    //    {
-    //        meat,
-    //        fish,
-    //        fruits,
-    //        milk,
-    //        sweeets
-    //    }
-
-    //    public void AnimalHealth( food whatToEat)
-    //    {
-    //        double health = 4;
-    //        switch (whatToEat)
-    //        {
-    //            case food.meat:
-    //            case food.fish:
-    //            case food.milk:   
-    //                Console.WriteLine(health += +0.25);
-    //                break;
-    //            case food.fruits:
-    //            case food.sweeets:
-    //                Console.WriteLine(health += -0.25);
-    //                break;
-    //            default:
-    //                Console.WriteLine("Problem"); 
-    //                break;
-
-    //        }
-
-    //    }
-    //}
     public enum food
         {
             meat,

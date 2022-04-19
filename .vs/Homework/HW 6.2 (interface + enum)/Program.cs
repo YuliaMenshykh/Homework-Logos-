@@ -6,13 +6,6 @@ using System.Threading.Tasks;
 
 namespace HW_6._2__interface___enum_
 {
-    public enum whatToEat
-    {
-        meat,
-        fish,
-        fruits,
-        milk
-    }
 
 
     interface ISleep
@@ -20,10 +13,6 @@ namespace HW_6._2__interface___enum_
         void AnimalSleep();
     }
 
-    interface IEat
-    {
-        void AnimalEat();
-    }
     interface IDrink
     {
         void AnimalDrink();
@@ -33,53 +22,66 @@ namespace HW_6._2__interface___enum_
         void AnimalTalk();
     }
 
-
-     class IHealthPeasfull
+    interface IEat
     {
-        void AnimalHealth( whatToEat whatToEat)
-        {
-            double health = 0;
-            switch (whatToEat)
-            {
-                case whatToEat.meat:
-                    health =- 0.25;
-                    break;
-                case whatToEat.fish:
-                    health =-0.25;
-                    break;
-                case whatToEat.fruits:
-                    health =+0.25;
-                    break;
-                case whatToEat.milk:
-                    health =+0.25;
-                    break;
-                default:
-                    Console.WriteLine("Problem"); 
-                    break;
+        double AnimalHealth(food food);
 
-               
-            }
-             
-            
-        }
     }
 
+    //public class Eat
+    //{
+    //    public enum food
+    //    {
+    //        meat,
+    //        fish,
+    //        fruits,
+    //        milk,
+    //        sweeets
+    //    }
+
+    //    public void AnimalHealth( food whatToEat)
+    //    {
+    //        double health = 4;
+    //        switch (whatToEat)
+    //        {
+    //            case food.meat:
+    //            case food.fish:
+    //            case food.milk:   
+    //                Console.WriteLine(health += +0.25);
+    //                break;
+    //            case food.fruits:
+    //            case food.sweeets:
+    //                Console.WriteLine(health += -0.25);
+    //                break;
+    //            default:
+    //                Console.WriteLine("Problem"); 
+    //                break;
+
+    //        }
+
+    //    }
+    //}
+    public enum food
+        {
+            meat,
+            fish,
+            fruits,
+            milk,
+            sweeets
+        }
 
 
 
 
-     class Cat : IHealthPeasfull, ISleep, IEat, IDrink, ITalk
 
+    class Cat : IEat, ISleep, IDrink, ITalk
     {
-
+        
         public void AnimalSleep()
         {
             Console.WriteLine("Meow, i`m sleeping");
         }
-        public void AnimalEat()
-        {
-           
-        }
+
         public void AnimalDrink()
         {
             Console.WriteLine("Meow, i`m drinking");
@@ -88,50 +90,89 @@ namespace HW_6._2__interface___enum_
         {
             Console.WriteLine("Meow Meow");
         }
-        
 
-    }
-
-
-    class Dog : ISleep, IEat, IDrink, ITalk
-    {
-
-        public void AnimalSleep()
+        double health = 1;
+        public double AnimalHealth(food whatToEat)
         {
-            Console.WriteLine("Wooff, i`m sleeping");
+          switch (whatToEat)
+          {
+            case food.meat:
+            case food.fish:
+            case food.milk:
+            Console.WriteLine(health += +0.25);
+            break;
+            case food.fruits:
+            case food.sweeets:
+            Console.WriteLine(health += -0.25);
+            break;
+            default:
+            Console.WriteLine("Problem");
+            break;
+          }
+          return health;
         }
-        public void AnimalEat()
+
+
+
+        class Dog : IEat, ISleep, IDrink, ITalk
         {
-            Console.WriteLine("Wooff, i`m eating");
+
+            public void AnimalSleep()
+            {
+                Console.WriteLine("Wooff, i`m sleeping");
+            }
+
+            public void AnimalDrink()
+            {
+                Console.WriteLine("Wooff, i`m drinking");
+            }
+            public void AnimalTalk()
+            {
+                Console.WriteLine("Wooff Wooff");
+            }
+            double health = 2;
+            public double AnimalHealth(food whatToEat)
+            {
+                switch (whatToEat)
+                {
+                    case food.meat:
+                    case food.fish:
+                        Console.WriteLine(health += +0.25);
+                        break;
+                    case food.fruits:
+                    case food.sweeets:
+                    case food.milk:
+                        Console.WriteLine(health += -0.25);
+                        break;
+                    default:
+                        Console.WriteLine("Problem");
+                        break;
+                }
+                return health;
+            }
+
         }
-        public void AnimalDrink()
+
+
+        class Program
         {
-            Console.WriteLine("Wooff, i`m drinking");
-        }
-        public void AnimalTalk()
-        {
-            Console.WriteLine("Wooff Wooff");
-        }
+            static void Main(string[] args)
+            {
+                Cat cat = new Cat();
+                cat.AnimalSleep();
+                cat.AnimalHealth(food.fruits);
+                cat.AnimalHealth(food.milk);
 
-    }
-    class Program
-    {
-       
+                Dog dog = new Dog();
+                dog.AnimalHealth(food.fish);
+                dog.AnimalHealth(food.meat);
 
 
-        
-       static void Main(string[] args)
-       {
-          Cat cat = new Cat();
-          (cat as ISleep).AnimalSleep();
 
-          Dog dog = new Dog();
-          (dog as IDrink).AnimalDrink();
-            dog.AnimalDrink();
-           
 
+            }
 
         }
-        
+
     }
 }

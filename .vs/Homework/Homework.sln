@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.2 HW add data in class",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.3 HW mini BD", "12.2 HW add data in class\12.3 HW mini BD.csproj", "{497C6580-3906-4274-BE2F-C38CC6F6641A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.1  HW write data in file", "12.1  HW write data in file\12.1  HW write data in file.csproj", "{0A9E3D97-DC51-4B5D-99D8-A99A9264FF31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.1  HW write data in file", "12.1  HW write data in file\12.1  HW write data in file.csproj", "{0A9E3D97-DC51-4B5D-99D8-A99A9264FF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW  7.1 student assessment", "HW  7.1 student assessment\HW  7.1 student assessment.csproj", "{AC41FB55-AA36-4882-A1CA-24F50A49162E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{0A9E3D97-DC51-4B5D-99D8-A99A9264FF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A9E3D97-DC51-4B5D-99D8-A99A9264FF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A9E3D97-DC51-4B5D-99D8-A99A9264FF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC41FB55-AA36-4882-A1CA-24F50A49162E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC41FB55-AA36-4882-A1CA-24F50A49162E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC41FB55-AA36-4882-A1CA-24F50A49162E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC41FB55-AA36-4882-A1CA-24F50A49162E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

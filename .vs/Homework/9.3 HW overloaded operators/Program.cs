@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 namespace _9._3_HW_overloaded_operators
 {
 
-    class Coast
+    class Cost
     {
         public int Price { get; set; }
 
-        public static Coast operator +(Coast product1, Coast product2)
+        public static Cost operator +(Cost product1, Cost product2)
         {
-            return new Coast { Price = product1.Price + product2.Price };
+            return new Cost { Price = product1.Price + product2.Price };
         }
-        public static bool operator >(Coast product1, Coast product2)
+        public static bool operator >(Cost product1, Cost product2)
         {
             return product1.Price > product2.Price;
         }
-        public static bool operator <(Coast product1, Coast product2)
+        public static bool operator <(Cost product1, Cost product2)
         {
             return product1.Price < product2.Price;
         }
@@ -32,7 +32,13 @@ namespace _9._3_HW_overloaded_operators
     {
         static void Main(string[] args)
         {
-          
+            Cost cost1 = new Cost();
+            cost1.Price = 33;
+            Cost cost2 = new Cost();
+            cost2.Price = 45;
+
+            
+
         }
     }
 }

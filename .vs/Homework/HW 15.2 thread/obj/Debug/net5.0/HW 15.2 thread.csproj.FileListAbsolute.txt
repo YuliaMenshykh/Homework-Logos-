@@ -1,0 +1,15 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\bin\Debug\net5.0\HW 15.2 thread.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\bin\Debug\net5.0\HW 15.2 thread.deps.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\bin\Debug\net5.0\HW 15.2 thread.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\bin\Debug\net5.0\HW 15.2 thread.runtimeconfig.dev.json
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\bin\Debug\net5.0\HW 15.2 thread.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\bin\Debug\net5.0\ref\HW 15.2 thread.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\bin\Debug\net5.0\HW 15.2 thread.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\ref\HW 15.2 thread.dll
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.genruntimeconfig.cache

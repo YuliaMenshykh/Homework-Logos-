@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.1 thread\bin\Debug\HW 15.1 thread.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.1 thread\bin\Debug\HW 15.1 thread.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.1 thread\bin\Debug\HW 15.1 thread.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.1 thread\obj\Debug\HW 15.1 thread.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.1 thread\obj\Debug\HW 15.1 thread.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.1 thread\obj\Debug\HW 15.1 thread.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.1 thread\obj\Debug\HW 15.1 thread.pdb

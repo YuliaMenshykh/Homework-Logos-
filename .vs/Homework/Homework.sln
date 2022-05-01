@@ -49,9 +49,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW  7.1 student assessment"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 15.1 thread", "HW 15.1 thread\HW 15.1 thread.csproj", "{97E155FB-DB81-4E8E-9B7D-6F3A66C1CDD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 15.2 thread", "HW 15.2 thread\HW 15.2 thread.csproj", "{D85006CC-1F3D-4C1A-8CB9-4C3BC1E6B97C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW 15.2 thread", "HW 15.2 thread\HW 15.2 thread.csproj", "{D85006CC-1F3D-4C1A-8CB9-4C3BC1E6B97C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 15.3", "HW 15.3\HW 15.3.csproj", "{5B4D596E-16B7-4CE9-B785-A33777A1B93C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW 15.3", "HW 15.3\HW 15.3.csproj", "{5B4D596E-16B7-4CE9-B785-A33777A1B93C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.3 HW", "16.3 HW\16.3 HW.csproj", "{D8E4419F-82DD-4776-A973-02CEB53107CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{5B4D596E-16B7-4CE9-B785-A33777A1B93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B4D596E-16B7-4CE9-B785-A33777A1B93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B4D596E-16B7-4CE9-B785-A33777A1B93C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E4419F-82DD-4776-A973-02CEB53107CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E4419F-82DD-4776-A973-02CEB53107CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E4419F-82DD-4776-A973-02CEB53107CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E4419F-82DD-4776-A973-02CEB53107CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

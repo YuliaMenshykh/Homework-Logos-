@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace HW_15._3
 {
     class Program
     {
-        static void LoadingLine()
+        
+
+        static async void LoadingLine()
         {
             var Left = Console.CursorLeft;
             var Top = Console.CursorTop;
@@ -16,8 +19,8 @@ namespace HW_15._3
             int loading = 10;
 
             Console.Write("[");
-            
-            for (int i = 0; i < loading; i++)
+
+            for(int i = 0; i < loading; i++)
             {
                 Console.Write("_Loading_");
                 Thread.Sleep(500);
@@ -32,6 +35,8 @@ namespace HW_15._3
             Console.CursorLeft = Left;
             Console.CursorTop = Top;
 
+            await Task.Run(() => { confuthe(); });
+
         }
 
         static void confuthe()
@@ -42,6 +47,8 @@ namespace HW_15._3
                 Thread.Sleep(500);
             }
         }
+
+
 
         static void Main(string[] args)
         {

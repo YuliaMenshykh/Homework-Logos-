@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Homework\\Homework.csproj": {}
+    "C:\\Users\\Elizabeth\\Desktop\\Homework-Logos-\\Homework-Logos-\\.vs\\Homework\\Homework\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Homework\\Homework.csproj": {
+    "C:\\Users\\Elizabeth\\Desktop\\Homework-Logos-\\Homework-Logos-\\.vs\\Homework\\Homework\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Homework\\Homework.csproj",
+        "projectUniqueName": "C:\\Users\\Elizabeth\\Desktop\\Homework-Logos-\\Homework-Logos-\\.vs\\Homework\\Homework\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Homework\\Homework.csproj",
-        "packagesPath": "C:\\Users\\Pavlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pavlo\\Desktop\\Fork\\.vs\\Homework\\Homework\\obj\\",
+        "projectPath": "C:\\Users\\Elizabeth\\Desktop\\Homework-Logos-\\Homework-Logos-\\.vs\\Homework\\Homework\\Homework.csproj",
+        "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elizabeth\\Desktop\\Homework-Logos-\\Homework-Logos-\\.vs\\Homework\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pavlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elizabeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

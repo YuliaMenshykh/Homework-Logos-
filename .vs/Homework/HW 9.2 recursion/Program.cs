@@ -35,14 +35,26 @@ namespace HW_9._2_recursion
 
             }
         }
+
+        class YourBag
+        {
+            public void StartBag()
+            {
+                while (true)
+                {
+                    Welcome ss = new Welcome(5);
+                    Welcome s1 = new Welcome();
+                }
+            }
+            
+        }
         static void Main(string[] args)
         {
-            while (true)
-            {
-                Welcome ss = new Welcome(5);
-                Welcome s1 = new Welcome();
-            }
-           
+            YourBag yourBag = new YourBag();
+            yourBag.StartBag();
+
+
+
         }
     }
 }

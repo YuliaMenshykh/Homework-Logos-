@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 7.2 school\bin\Debug\HW 7.2 school.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 7.2 school\bin\Debug\HW 7.2 school.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 7.2 school\bin\Debug\HW 7.2 school.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 7.2 school\obj\Debug\HW 7.2 school.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 7.2 school\obj\Debug\HW 7.2 school.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 7.2 school\obj\Debug\HW 7.2 school.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 7.2 school\obj\Debug\HW 7.2 school.pdb

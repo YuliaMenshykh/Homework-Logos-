@@ -1,2 +1,7 @@
 C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW  7.1 student assessment\obj\Debug\HW  7.1 student assessment.csproj.AssemblyReference.cache
 C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW  7.1 student assessment\obj\Debug\HW  7.1 student assessment.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW  7.1 student assessment\bin\Debug\HW  7.1 student assessment.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW  7.1 student assessment\bin\Debug\HW  7.1 student assessment.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW  7.1 student assessment\bin\Debug\HW  7.1 student assessment.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW  7.1 student assessment\obj\Debug\HW  7.1 student assessment.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW  7.1 student assessment\obj\Debug\HW  7.1 student assessment.pdb

@@ -46,7 +46,7 @@ namespace Homework
             Console.ReadLine();
             
             
-            //Homework 2.1
+            //Homework 3.1
 
             int res = sizeof(int);
             Console.WriteLine(res);
@@ -55,14 +55,14 @@ namespace Homework
             Console.WriteLine(res1);
 
 
-            //Homework  2.2
+            //Homework  3.2
 
             string myWord = "hello";
             int res2 = System.Runtime.InteropServices.Marshal.SizeOf(myWord);
             Console.WriteLine(res2);
 
 
-            //Homework 2.3
+            //Homework 3.3
 
 
             int size = System.Runtime.InteropServices.Marshal.SizeOf(typeof(People));

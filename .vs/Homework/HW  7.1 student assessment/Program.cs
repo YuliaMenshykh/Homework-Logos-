@@ -33,15 +33,14 @@ namespace HW__7._1_student_assessment
                 public static StudentAuditory generateRandomStudAuditory()
                 {
                     var rnd = new Random();
-                    int studentCount = rnd.Next(5, 10);
+                    int studentCount = rnd.Next(15, 30);
                     var students = new List<Student>();
 
                     for (var i = 0; i < studentCount; i++)
                     {
-                        var rnd2 = new Random();
                         students.Add(new Student()
                         {
-                            points = new int[3] { rnd2.Next(1, 6), rnd2.Next(1, 6), rnd2.Next(1, 6) }
+                            points = new int[3] { rnd.Next(1, 6), rnd.Next(1, 6), rnd.Next(1, 6) }
                         });
                     }
 
@@ -60,6 +59,12 @@ namespace HW__7._1_student_assessment
                 }
 
             }
+        }
+
+
+        static void Main(string[] args)
+        {
+            StudClass.run();
         }
     }
 }

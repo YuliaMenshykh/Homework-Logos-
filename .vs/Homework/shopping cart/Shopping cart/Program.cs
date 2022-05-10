@@ -10,8 +10,7 @@ namespace Shopping_cart
     {
         static void Main(string[] args)
         {
-            List<Product> ProdList = new List<Product>();
-            ProdList.Add(new Product {Name = "Bananna",Cost = 3.5, ExpiryDate =  new DateTime(2022, 06, 15)});
+           
             
 
         }

@@ -33,7 +33,7 @@ namespace HW__7._1_student_assessment
                 public static StudentAuditory generateRandomStudAuditory()
                 {
                     var rnd = new Random();
-                    int studentCount = rnd.Next(15, 30);
+                    int studentCount = rnd.Next(15, 10);
                     var students = new List<Student>();
 
                     for (var i = 0; i < studentCount; i++)

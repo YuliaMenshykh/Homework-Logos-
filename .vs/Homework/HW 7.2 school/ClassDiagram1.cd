@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HW_7._2_school.StudentAuditory">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="HW_7._2_school.Student" FixedToPoint="true">
+      <Path>
+        <Point X="13.25" Y="3.296" />
+        <Point X="13.25" Y="4.687" />
+        <Point X="11" Y="4.687" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>StudClass1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HW_7._2_school.Student">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HW_7._2_school.Program">
+    <Position X="3.5" Y="4.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

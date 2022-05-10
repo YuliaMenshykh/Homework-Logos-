@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Shopping_cart
 {
-    class Shop
+    class Chesk : Product 
     {
-        static T sum<T>( T a,T b )
-        {
-        return a + b;
-        }
+
+
     }
 }

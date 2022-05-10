@@ -26,8 +26,7 @@ namespace HW_7._2_school
 
             return new StudentAuditory() { students = students.ToArray() };
         }
-
-        public static void run()
+        public void run()
         {
             var rndStudentAud = StudentAuditory.generateRandomStudAuditory();
 

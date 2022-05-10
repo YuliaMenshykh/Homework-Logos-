@@ -6,33 +6,44 @@ using System.Threading.Tasks;
 
 namespace Shopping_cart
 {
+    public delegate double PriseWithoutTax(double Cost);
     class Product
     {
+        public string Name { get; set; }
+        public double Cost { get; set; }
+        public DateTime ExpiryDate { get; set; }
+        public Product()
+        {
+        }
 
         public Product(string name, double cost, DateTime expiryDate)
         {
             Name = name;
             Cost = cost;
             ExpiryDate = expiryDate;
-            
         }
 
-
-        public string Name { get; set; }
-        public double Cost { get; set; }
-        public DateTime ExpiryDate { get; set; }
-
-
-        public Product[] MyProduct = null;
-        public void ShoppingList()
+        public double PriseWithoutTax (double Cost)
         {
-            MyProduct[0] = new Product("Headphone", 155, new DateTime(2024, 06, 15));
-            MyProduct[1] = new Product("Computer", 3.5, new DateTime(2022, 06, 15));
-            MyProduct[2] = new Product("Memory", 3.5, new DateTime(2022, 06, 15));
-            MyProduct[3] = new Product("Phone", 3.5, new DateTime(2022, 06, 15));
+            return Cost * 0.8;
+        }
+
+        
+
+
+        
+        public void ProdList()
+        {
+            List<Product> ProdList = new List<Product>();
+            ProdList.Add(new Product { Name = "Headphone", Cost = 300, ExpiryDate = new DateTime(2025, 06, 15) });
+            ProdList.Add(new Product { Name = "Computer", Cost = 1000, ExpiryDate = new DateTime(2025, 06, 15) });
+            ProdList.Add(new Product { Name = "Memory", Cost = 450, ExpiryDate = new DateTime(2025, 06, 15) });
+            ProdList.Add(new Product { Name = "Phone", Cost = 750, ExpiryDate = new DateTime(2025, 06, 15) });
+
         }
 
 
+        
 
 
 

@@ -8,33 +8,24 @@ namespace HW_7._2_school
 {
     class Program
     {
-        class AllSchoolPoint : StudentAuditory
+        static void GeneretSchool()
         {
-            StudentAuditory studClass = new StudentAuditory();
-
-            
-            public static AllSchoolPoint generateAllSchoolPointy()
+            var rnd = new Random();
+            int AllClassCount = rnd.Next(15, 30);
+            for (int i = 1; i < AllClassCount; i++)
             {
-                var rnd = new Random();
-                int AllClassCount = rnd.Next(15, 30);
-                var classes  = new List<StudentAuditory>();
-
-                for (var i = 0; i < AllClassCount; i++)
-                {
-                    classes.Add(new StudentAuditory()
-                    {
-                        points = new int[3] { rnd.Next(1, 6), rnd.Next(1, 6), rnd.Next(1, 6) }
-                    });
-                }
-
-                return new StudentAuditory() { students = .ToArray() };
+                Console.WriteLine($"{i} class____________________________________________");
+                StudentAuditory studClass = new StudentAuditory();
+                studClass.run();
+                
             }
-
         }
         static void Main(string[] args)
         {
-            StudentAuditory.run();
+            GeneretSchool();
+
 
         }
+
     }
 }

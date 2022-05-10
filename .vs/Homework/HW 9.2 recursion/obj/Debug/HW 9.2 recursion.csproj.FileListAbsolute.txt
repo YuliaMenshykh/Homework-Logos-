@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 9.2 recursion\bin\Debug\HW 9.2 recursion.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 9.2 recursion\bin\Debug\HW 9.2 recursion.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 9.2 recursion\bin\Debug\HW 9.2 recursion.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 9.2 recursion\obj\Debug\HW 9.2 recursion.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 9.2 recursion\obj\Debug\HW 9.2 recursion.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 9.2 recursion\obj\Debug\HW 9.2 recursion.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 9.2 recursion\obj\Debug\HW 9.2 recursion.pdb

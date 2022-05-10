@@ -10,12 +10,7 @@ namespace HW_15._3
 
         static async void LoadingLine()
         {
-            var Left = Console.CursorLeft;
-            var Top = Console.CursorTop;
-            Console.CursorLeft = 0;
-            Console.CursorTop = 0;
-
-            
+           
             int loading = 10;
 
             Console.Write("[");
@@ -32,8 +27,6 @@ namespace HW_15._3
             }
             Console.Write("] \n");
 
-            Console.CursorLeft = Left;
-            Console.CursorTop = Top;
 
             await Task.Run(() => { confuthe(); });
 
@@ -55,8 +48,7 @@ namespace HW_15._3
             Thread thread = new Thread(new ThreadStart(LoadingLine));
             thread.Start();
 
-            Thread conf = new Thread(new ThreadStart(confuthe));
-            conf.Start();
+            
 
 
         }

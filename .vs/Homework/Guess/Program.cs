@@ -28,11 +28,11 @@ namespace Guess
 
                     if (guess > number)
                     {
-                        Console.WriteLine(guess + " - guess is to high!");
+                        Console.WriteLine(guess + " -  is to high!");
                     }
                     else if (guess < number)
                     {
-                        Console.WriteLine(guess + " - guess is to low!");
+                        Console.WriteLine(guess + " -  is to low!");
                     }
                     gesses++;
                 }

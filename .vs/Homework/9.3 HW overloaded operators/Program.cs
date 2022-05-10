@@ -36,8 +36,8 @@ namespace _9._3_HW_overloaded_operators
             cost1.Price = 33;
             Cost cost2 = new Cost();
             cost2.Price = 45;
-
-            
+            var res = cost1.Price + cost2.Price;
+            Console.WriteLine(res);
 
         }
     }

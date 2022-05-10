@@ -30,7 +30,7 @@ namespace _10._3_HW_delegat_ref
 
 
             Count count = new Count();
-            count.= Pupils(ref Pupils2A, ref Pupils2B, ref Pupils2C);
+            count= Pupils(ref Pupils2A, ref Pupils2B, ref Pupils2C);
 
         }
 

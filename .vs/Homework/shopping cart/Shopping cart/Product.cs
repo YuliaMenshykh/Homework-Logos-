@@ -23,29 +23,16 @@ namespace Shopping_cart
         public DateTime ExpiryDate { get; set; }
 
 
-        //public Product[] MyProduct = null;
-        //public void ShoppingList()
-        //{
-        //    MyProduct[0] = new Product("Bananna", 3.5, new DateTime(2022, 06, 15));
-        //    MyProduct[1] = new Product("Bananna", 3.5, new DateTime(2022, 06, 15));
-        //    MyProduct[2] = new Product("Bananna", 3.5, new DateTime(2022, 06, 15));
-        //    MyProduct[3] = new Product("Bananna", 3.5, new DateTime(2022, 06, 15));
-        //}
-
-        
-
-        //public void PrintShopList(string Name, int Cost)
-        //{
-        //    Console.WriteLine($" Name :{Name}, Cost : {Cost}");
-        //}
+        public Product[] MyProduct = null;
+        public void ShoppingList()
+        {
+            MyProduct[0] = new Product("Headphone", 155, new DateTime(2024, 06, 15));
+            MyProduct[1] = new Product("Computer", 3.5, new DateTime(2022, 06, 15));
+            MyProduct[2] = new Product("Memory", 3.5, new DateTime(2022, 06, 15));
+            MyProduct[3] = new Product("Phone", 3.5, new DateTime(2022, 06, 15));
+        }
 
 
-        
-
-        //static List<Product> items = new List<Product>()
-        //{
-            
-        //};
 
 
 
@@ -58,7 +45,7 @@ namespace Shopping_cart
 
 
 
-        
+
 
     }
 }

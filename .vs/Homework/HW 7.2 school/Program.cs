@@ -13,7 +13,6 @@ namespace HW_7._2_school
             StudentAuditory studClass = new StudentAuditory();
 
             
-
             public static AllSchoolPoint generateAllSchoolPointy()
             {
                 var rnd = new Random();
@@ -22,13 +21,13 @@ namespace HW_7._2_school
 
                 for (var i = 0; i < AllClassCount; i++)
                 {
-                    students.Add(new Student()
+                    classes.Add(new StudentAuditory()
                     {
                         points = new int[3] { rnd.Next(1, 6), rnd.Next(1, 6), rnd.Next(1, 6) }
                     });
                 }
 
-                return new StudentAuditory() { students = students.ToArray() };
+                return new StudentAuditory() { students = .ToArray() };
             }
 
         }

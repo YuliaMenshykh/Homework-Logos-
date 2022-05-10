@@ -36,7 +36,7 @@ namespace Homework
                     Console.WriteLine(ch1 * ch2);
                     break;
                 case "/":
-                    if (ch2 <= 0)
+                    if (ch2 != 0)
                     {
                         Console.WriteLine(ch1 / ch2);
                     }

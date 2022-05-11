@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("10.1 HW method+ rand")]
+[assembly: AssemblyTitle("10.2 HW method+ rand")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("10.1 HW method+ rand")]
+[assembly: AssemblyProduct("10.2 HW method+ rand")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5a66f38e-f048-418f-8dcd-a2abb7de4acd")]
+[assembly: Guid("89c19da7-3f34-411b-a2f4-e73d03a7c42f")]
 
 // Version information for an assembly consists of the following four values:
 //

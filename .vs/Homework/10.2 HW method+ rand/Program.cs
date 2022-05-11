@@ -9,11 +9,12 @@ namespace _10._2_HW_method__rand
     class Product
     {
         private static string[] name = {"Computer","Phone","AirPods","Macbook","Memory","Processor" };
-        public static void RandProd ()
+        public static string RandProd ()
         {
             var rand = new Random();
             string randProd = name[rand.Next(name.Length)];
-            Console.WriteLine(randProd);
+            
+            return randProd;
         }
 
         
@@ -23,8 +24,8 @@ namespace _10._2_HW_method__rand
     {
         static void Main(string[] args)
         {
-            Product.RandProd();
-
+           
+            Console.WriteLine(Product.RandProd());
 
         }
     }

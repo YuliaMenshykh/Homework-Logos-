@@ -29,10 +29,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1 HW constructor", "9.1 H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.3 HW overloaded operators", "9.3 HW overloaded operators\9.3 HW overloaded operators.csproj", "{3317A09B-AAFA-425A-9604-3FE16C99B08A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1 HW delegate", "10.1 HW delegate\10.1 HW delegate.csproj", "{259FE863-FBDC-4AEF-BBFE-79EC44A0FF84}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.2 HW method+ rand", "10.1 HW method+ rand\10.2 HW method+ rand.csproj", "{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.3 HW delegat+ref", "10.3 HW delegat+ref\10.3 HW delegat+ref.csproj", "{89C19DA7-3F34-411B-A2F4-E73D03A7C42F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.2 HW Linq", "11\11.2 HW Linq.csproj", "{0B4088AE-FC20-4EF9-A760-A60DB2C86D66}"
@@ -58,6 +54,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 7.2 school", "HW 7.2 school\HW 7.2 school.csproj", "{43FA9B03-28FC-45F9-A670-D35AE84438EC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 9.2 recursion", "HW 9.2 recursion\HW 9.2 recursion.csproj", "{17D991A5-BC6B-4B0E-AC46-69F2950D27F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.2 HW method+ rand", "10.2 HW method+ rand\10.2 HW method+ rand.csproj", "{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,14 +115,6 @@ Global
 		{3317A09B-AAFA-425A-9604-3FE16C99B08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3317A09B-AAFA-425A-9604-3FE16C99B08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3317A09B-AAFA-425A-9604-3FE16C99B08A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{259FE863-FBDC-4AEF-BBFE-79EC44A0FF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{259FE863-FBDC-4AEF-BBFE-79EC44A0FF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{259FE863-FBDC-4AEF-BBFE-79EC44A0FF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{259FE863-FBDC-4AEF-BBFE-79EC44A0FF84}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{89C19DA7-3F34-411B-A2F4-E73D03A7C42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{89C19DA7-3F34-411B-A2F4-E73D03A7C42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89C19DA7-3F34-411B-A2F4-E73D03A7C42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -177,6 +167,10 @@ Global
 		{17D991A5-BC6B-4B0E-AC46-69F2950D27F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D991A5-BC6B-4B0E-AC46-69F2950D27F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D991A5-BC6B-4B0E-AC46-69F2950D27F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A66F38E-F048-418F-8DCD-A2ABB7DE4ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

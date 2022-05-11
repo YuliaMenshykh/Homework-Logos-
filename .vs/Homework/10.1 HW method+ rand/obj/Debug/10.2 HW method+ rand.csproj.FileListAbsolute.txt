@@ -1,0 +1,2 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW method+ rand\obj\Debug\10.2 HW method+ rand.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW method+ rand\obj\Debug\10.2 HW method+ rand.csproj.CoreCompileInputs.cache

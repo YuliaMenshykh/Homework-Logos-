@@ -1,7 +1,0 @@
-C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW delegate\bin\Debug\10.1 HW delegate.exe.config
-C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW delegate\bin\Debug\10.1 HW delegate.exe
-C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW delegate\bin\Debug\10.1 HW delegate.pdb
-C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW delegate\obj\Debug\10.1 HW delegate.csproj.AssemblyReference.cache
-C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW delegate\obj\Debug\10.1 HW delegate.csproj.CoreCompileInputs.cache
-C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW delegate\obj\Debug\10.1 HW delegate.exe
-C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\10.1 HW delegate\obj\Debug\10.1 HW delegate.pdb

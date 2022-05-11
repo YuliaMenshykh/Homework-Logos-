@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\shopping cart\Shopping cart\bin\Debug\Shopping cart.exe.config
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\shopping cart\Shopping cart\bin\Debug\Shopping cart.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\shopping cart\Shopping cart\bin\Debug\Shopping cart.pdb
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\shopping cart\Shopping cart\obj\Debug\Shopping cart.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\shopping cart\Shopping cart\obj\Debug\Shopping cart.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\shopping cart\Shopping cart\obj\Debug\Shopping cart.exe
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\shopping cart\Shopping cart\obj\Debug\Shopping cart.pdb

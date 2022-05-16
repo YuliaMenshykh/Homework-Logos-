@@ -21,11 +21,6 @@ namespace Shop
             }
         }
 
-        public virtual string getInfo()
-        {
-            return $"{Name}: {Price}$";
-        }
-
 
         public override string ToString()
         {
@@ -44,7 +39,6 @@ namespace Shop
             Console.WriteLine("Write garanty time :");
             DateTime garanty = DateTime.Parse(Console.ReadLine());
           
-
 
             return new Product() { Name = name, Price = price, Count = count, Garanty = garanty};
         }

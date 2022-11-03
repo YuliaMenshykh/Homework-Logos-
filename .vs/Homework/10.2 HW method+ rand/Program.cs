@@ -17,15 +17,40 @@ namespace _10._2_HW_method__rand
             return randProd;
         }
 
-        
 
+
+
+        public static bool Solution(string str, string ending)
+        {
+            //try
+            //{
+            //    string res = str.Substring(str.Length - ending.Length, ending.Length);
+            //    if (res == ending) return true;
+            //    else return false;
+            //}
+            //catch (Exception)
+            //{
+            //    return false;
+            //    throw;
+            //}
+
+
+            return str.EndsWith(ending);
+        }
     }
+
+   
+
+
     class Program
     {
         static void Main(string[] args)
         {
            
-            Console.WriteLine(Product.RandProd());
+            //Console.WriteLine(Product.RandProd());
+
+            Console.WriteLine(Product.Solution("r", "er")); 
+
 
         }
     }

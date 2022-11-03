@@ -13,3 +13,4 @@ C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 
 C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\ref\HW 15.2 thread.dll
 C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.pdb
 C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\Homework-Logos-\Homework-Logos-\.vs\Homework\HW 15.2 thread\obj\Debug\net5.0\HW 15.2 thread.csproj.AssemblyReference.cache
